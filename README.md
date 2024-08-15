@@ -1,1 +1,1 @@
-# web-developmen-course
+# web-development-course
